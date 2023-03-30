@@ -220,5 +220,310 @@
         "size": "6"
       }
     ]
+  },
+  "Clothing": {
+    "tshirt": [
+      {
+        "name": "David Crew - 100% Cotton Regular Fit Green Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/e/t/David-Crew-100-Cotton-Green-SDL559120798-1-895b4.jpg",
+        "price": "349",
+        "strikedOfprice": "669",
+        "rating": "4",
+        "id": 1,
+        "size": "M"
+      },
+      {
+        "name": "Veirdo - 100% Cotton Regular Fit Blue Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n1.sdlcdn.com/imgs/k/e/t/Veirdo-100-Cotton-Regular-Fit-SDL468526198-2-caf53.jpg",
+        "price": "599",
+        "strikedOfprice": "999",
+        "rating": "4",
+        "id": 2
+      },
+      {
+        "name": "David Crew - 100% Cotton Regular Fit Multi Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n1.sdlcdn.com/imgs/k/e/u/David-Crew-100-Percent-Cotton-SDL895671834-3-86615.jpg",
+        "price": "799",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "The Million Club - Polyester Regular Fit Green Men's Polo T Shirt ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/b/5/230X258_sharpened/The-Million-Club-Polyester-Green-SDL019911900-1-e8441.webp",
+        "price": "269",
+        "strikedOfprice": "1599",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Veirdo - 100% Cotton Regular Fit Black Men's T-Shirt ( Pack of 2 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/e/9/Veirdo-100-Cotton-Regular-Fit-SDL991207448-2-8f437.jpg",
+        "price": "499",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "NOW OR NEVER - Cotton Blend Regular Fit Black Men's T-Shirt ( Pack of 2 )",
+        "image": "https://n1.sdlcdn.com/imgs/k/e/r/NOW-OR-NEVER-Cotton-Blend-SDL564366224-1-10e69.jpg",
+        "price": "575",
+        "strikedOfprice": "1726",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "KAPASIYA - Cotton Blend Regular Fit Orange Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/e/8/KAPASIYA-Cotton-Blend-Regular-Fit-SDL973899024-1-7edba.jpg",
+        "price": "650",
+        "strikedOfprice": "1289",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "KAPASIYA - Cotton Blend Regular Fit Yellow Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/e/7/KAPASIYA-Cotton-Blend-Regular-Fit-SDL404722215-1-41904.jpg",
+        "price": "540",
+        "strikedOfprice": "1240",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Maniac - 100% Cotton Slim Fit White Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/e/z/Maniac-100-Cotton-Slim-Fit-SDL177052255-1-f7701.jpg",
+        "price": "419",
+        "strikedOfprice": "1720",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Maniac - 100% Cotton Slim Fit Navy Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n2.sdlcdn.com/imgs/k/e/o/Maniac-100-Percent-Cotton-Slim-SDL416001461-1-f8db8.jpg",
+        "price": "439",
+        "strikedOfprice": "1239",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "AUSK - Cotton Blend Regular Fit Blue Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n1.sdlcdn.com/imgs/k/e/u/AUSK-Cotton-Blend-Regular-Fit-SDL266585104-1-803b0.jpg",
+        "price": "389",
+        "strikedOfprice": "1234",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "David Crew - 100% Cotton Regular Fit Multi Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n4.sdlcdn.com/imgs/k/e/u/David-Crew-100-Percent-Cotton-SDL895671834-1-3db35.jpg",
+        "price": "349",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "David Crew - Cotton Blend Regular Fit Grey Men's T-Shirt ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/e/i/David-Crew-Cotton-Blend-Regular-SDL140239270-1-f95aa.jpg",
+        "price": "299",
+        "strikedOfprice": "500",
+        "rating": "4.5",
+        "id": 3
+      }
+    ],
+    "Shirt": [
+      {
+        "name": "Life Roads - 100% Cotton Slim Fit Black Men's Casual Shirt (Pack of 1)",
+        "image": "https://n4.sdlcdn.com/imgs/k/e/u/Life-Roads-100-Cotton-Slim-SDL140811803-1-7cd24.jpg",
+        "price": "649",
+        "strikedOfprice": "669",
+        "rating": "5",
+        "id": 1
+      },
+      {
+        "name": "Edinwolf - 100% Cotton Slim Fit Grey Men's Casual Shirt (Pack of 1)",
+        "image": "https://n4.sdlcdn.com/imgs/k/e/u/230X258_sharpened/Edinwolf-100-Cotton-Slim-Fit-SDL518971157-1-8034f.JPG",
+        "price": "499",
+        "strikedOfprice": "1999",
+        "rating": "4",
+        "id": 2
+      },
+      {
+        "name": "Gritstones - Cotton Blend Regular Fit Pink Men's Casual Shirt ( ,Pack of 1 )",
+        "image": "https://n4.sdlcdn.com/imgs/k/c/h/230X258_sharpened/Gritstones-Cotton-Blend-Pink-Shirt-SDL925642113-1-25e2a.webp",
+        "price": "419",
+        "strikedOfprice": "1699",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "YHA - 100% Cotton Regular Fit Green Men's Casual Shirt ( Pack of 1 )",
+        "image": "https://n4.sdlcdn.com/imgs/k/e/5/YHA-100-Cotton-Regular-Fit-SDL444716283-1-1a8e0.jpeg",
+        "price": "519",
+        "strikedOfprice": "1499",
+        "rating": "4",
+        "id": 4
+      },
+      {
+        "name": "VeBNoR - Cotton Blend Slim Fit Pink Men's Casual Shirt ( )",
+        "image": "https://n3.sdlcdn.com/imgs/j/u/7/VeBNoR-Cotton-Blend-Pink-Shirt-SDL418935453-1-788b8.jpeg",
+        "price": "469",
+        "strikedOfprice": "1899",
+        "rating": "4",
+        "id": 3
+      },
+      {
+        "name": "Vida Loca - 100 Percent Cotton Regular Fit Dark Pink Men's Casual Shirt ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/e/n/Vida-Loca-100-Percent-Cotton-SDL302236395-1-5d90c.jpg",
+        "price": "625",
+        "strikedOfprice": "1245",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "DESHBANDHU DBK - 100% Cotton Regular Fit White Men's Casual Shirt (Pack of 1)",
+        "image": "https://n4.sdlcdn.com/imgs/k/e/u/DESHBANDHU-DBK-100-Cotton-Regular-SDL514325147-1-57553.jpg",
+        "price": "349",
+        "strikedOfprice": "888",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Raa Jeans - Denim Slim Fit Black Men's Casual Shirt (Pack of 1)",
+        "image": "https://n4.sdlcdn.com/imgs/k/e/v/Raa-Jeans-Denim-Slim-Fit-SDL901013430-1-d3063.jpg",
+        "price": "649",
+        "strikedOfprice": "1999",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "DESHBANDHU DBK - 100% Cotton Regular Fit Grey Men's Formal Shirt (Pack of 1)",
+        "image": "https://n2.sdlcdn.com/imgs/k/e/t/DESHBANDHU-DBK-100-Cotton-Grey-SDL590993181-1-18582.jpg",
+        "price": "319",
+        "strikedOfprice": "1299",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "P&V - 100% Cotton Slim Fit Black Men's Casual Shirt (Pack of 1)",
+        "image": "https://n3.sdlcdn.com/imgs/k/e/u/P-V-100-Cotton-Slim-SDL618486339-1-81250.jpg",
+        "price": "519",
+        "strikedOfprice": "780",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "P&V - Cotton Blend Slim Fit Orange Men's Casual Shirt (Pack of 1)",
+        "image": "https://n4.sdlcdn.com/imgs/k/e/v/P-V-Cotton-Blend-Slim-SDL780360501-1-2422f.jpg",
+        "price": "519",
+        "strikedOfprice": "800",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Vida Loca - Linen Slim Fit White Men's Casual Shirt (Pack of 1)",
+        "image": "https://n1.sdlcdn.com/imgs/k/e/3/Vida-Loca-Linen-Slim-Fit-SDL525663292-1-9de19.jpg",
+        "price": "549",
+        "strikedOfprice": "2499",
+        "rating": "4.5",
+        "id": 3
+      }
+    ],
+    "Jeans": [
+      {
+        "name": "Urbano Fashion 100% Cotton Slim Fit Grey Men's Jeans ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/b/5/Urbano-Fashion-Grey-Slim-Jeans-SDL139395839-1-e695c.jpg",
+        "price": "649",
+        "strikedOfprice": "1169",
+        "rating": "4",
+        "id": 1
+      },
+      {
+        "name": "Urbano Fashion Cotton Blend Slim Fit Black Men's Jeans ( Pack of 1 )",
+        "image": "https://n4.sdlcdn.com/imgs/k/f/b/Urbano-Fashion-Cotton-Blend-Slim-SDL732981517-1-32334.jpg",
+        "price": "599",
+        "strikedOfprice": "999",
+        "rating": "4",
+        "id": 2
+      },
+      {
+        "name": "Rea-lize Cotton Blend Regular Fit Black Men's Jeans ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+        "price": "799",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Rea-lize Cotton Blend Regular Fit Black Men's Jeans ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/c/e/Rea-lize-Black-Regular-Fit-SDL136752555-3-d7274.jpg",
+        "price": "899",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Raa Jeans Denim Slim Fit Blue Men's Jeans ( Pack of 1 )",
+        "image": "https://n1.sdlcdn.com/imgs/j/q/w/Raa-Jeans-Blue-Slim-Jeans-SDL823508127-1-75ee7.jpg",
+        "price": "799",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "DANUZZZ Blue Slim Jeans Single",
+        "image": "https://n4.sdlcdn.com/imgs/k/c/m/DANUZZZ-Blue-Slim-Jeans-Single-SDL005072793-1-9b949.jpg",
+        "price": "799",
+        "strikedOfprice": "1500",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Rea-lize Cotton Blend Regular Fit Blue Men's Jeans ( Pack of 1 )",
+        "image": "https://n2.sdlcdn.com/imgs/k/d/s/Rea-lize-Blue-Regular-Fit-SDL127652358-1-7e70a.jpeg",
+        "price": "775",
+        "strikedOfprice": "1800",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "MODO Denim Slim Fit Light Blue Men's Jeans ( Pack of 1 )",
+        "image": "https://n2.sdlcdn.com/imgs/k/b/5/MODO-Light-Blue-Slim-Jeans-SDL234304721-1-ace09.jpg",
+        "price": "1200",
+        "strikedOfprice": "2000",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "MODO Denim Slim Fit Black Men's Jeans ( Pack of 1 )",
+        "image": "https://n3.sdlcdn.com/imgs/k/f/b/MODO-Denim-Slim-Fit-Black-SDL771939286-1-4d5c6.jpg",
+        "price": "539",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Urbano Fashion Cotton Blend Slim Fit Black Men's Jeans ( Pack of 1 )",
+        "image": "https://n1.sdlcdn.com/imgs/f/8/p/Urbano-Fashion-Black-Slim-Jeans-SDL243120339-1-86604.jpeg",
+        "price": "699",
+        "strikedOfprice": "980",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "Studio Nexx Cotton Blend Regular Fit Blue Men's Jeans ( Pack of 1 )",
+        "image": "https://n2.sdlcdn.com/imgs/k/b/5/Studio-Nexx-Blue-Regular-Fit-SDL982994310-1-5afc9.jpg",
+        "price": "539",
+        "strikedOfprice": "890",
+        "rating": "4.5",
+        "id": 3
+      },
+      {
+        "name": "L,Zard Denim Slim Fit Blue Men's Jeans ( Pack of 1 )",
+        "image": "https://n4.sdlcdn.com/imgs/k/e/3/L-Zard-Denim-Slim-Fit-SDL398673640-1-d98fe.jpg",
+        "price": "716",
+        "strikedOfprice": "1200",
+        "rating": "4.5",
+        "id": 3
+      }
+    ]
   }
 }
