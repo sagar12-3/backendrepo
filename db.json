@@ -1,18 +1,224 @@
 {
-  "users": [
-    {
-      "first_name": "Satya Prakash",
-      "last_name": "Singh",
-      "email": "officialsatyam8081@gmail.com",
-      "password": "Sa@ty#am",
-      "id": 1
-    },
-    {
-      "first_name": "Satya Prakash",
-      "last_name": "Singh",
-      "email": "officialsatyam8081@gmail.com",
-      "password": "Sa@ty#am",
-      "id": 2
-    }
-  ]
+  "FootWear": {
+    "sports & shoes": [
+      {
+        "name": "ASIAN White Running Shoes",
+        "image": "https://n3.sdlcdn.com/imgs/i/z/e/230X258_sharpened/ASIAN-White-Running-Shoes-SDL803356221-1-9c5da.webp",
+        "price": "519",
+        "strikedOfprice": "669",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "Action Black Running Shoes",
+        "image": "https://n4.sdlcdn.com/imgs/j/u/0/Action-Black-Running-Shoes-SDL563825251-1-c3725.jpg",
+        "price": "625",
+        "strikedOfprice": "669",
+        "rating": "5",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "ASIAN Blue Running Shoes",
+        "image": "https://n4.sdlcdn.com/imgs/i/e/r/230X258_sharpened/ASIAN-Blue-Running-Shoes-SDL243004409-1-d0751.jpeg",
+        "price": "599",
+        "strikedOfprice": "999",
+        "rating": "4",
+        "id": 2,
+        "size": "8"
+      },
+      {
+        "name": "Casual Black Shoes",
+        "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+        "price": "799",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3,
+        "size": "7"
+      },
+      {
+        "name": "ASIAN POPCORN-02 Gray Running Shoes",
+        "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+        "price": "799",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3,
+        "size": "6"
+      },
+      {
+        "name": "ASIAN POPCORN-02 Gray Running Shoes",
+        "image": "https://n3.sdlcdn.com/imgs/j/o/n/Campus-Black-Casual-Shoes-SDL266461164-4-428e2.jpeg",
+        "price": "799",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3,
+        "size": "8"
+      },
+      {
+        "name": "ASIAN HATTRICK-09",
+        "image": "https://n1.sdlcdn.com/imgs/j/v/s/ASIAN-HATTRICK-09-White-Running-SDL129176766-1-e2d54.jpeg",
+        "price": "725",
+        "strikedOfprice": "999",
+        "rating": "4.5",
+        "id": 3,
+        "size": "6"
+      },
+      {
+        "name": "ASIAN MISILE-01 Black Running",
+        "image": "https://n4.sdlcdn.com/imgs/j/v/n/ASIAN-MISILE-01-Black-Running-SDL521144278-1-27a1f.jpg",
+        "price": "500",
+        "strikedOfprice": "800",
+        "rating": "4.5",
+        "id": 3,
+        "size": "8"
+      },
+      {
+        "name": "Columbus Martin Red Running",
+        "image": "https://n1.sdlcdn.com/imgs/j/r/c/Columbus-Martin-Red-Running-Shoes-SDL144912381-1-ca70b.jpg",
+        "price": "875",
+        "strikedOfprice": "1200",
+        "rating": "4.5",
+        "id": 3,
+        "size": "5"
+      },
+      {
+        "name": "ASIAN FUTURE-01 Gray Running",
+        "image": "https://n4.sdlcdn.com/imgs/i/z/e/ASIAN-Gray-Running-Shoes-SDL797926121-1-18463.jpg",
+        "price": "800",
+        "strikedOfprice": "1350",
+        "rating": "4.5",
+        "id": 3,
+        "size": "8"
+      },
+      {
+        "name": "Campus First Black Running",
+        "image": "https://n3.sdlcdn.com/imgs/j/r/d/Campus-First-Black-Running-Shoes-SDL565178971-1-eba73.jpg",
+        "price": "1599",
+        "strikedOfprice": "2500",
+        "rating": "4.5",
+        "id": 3,
+        "size": "6"
+      },
+      {
+        "name": "ASIAN Navy Running Shoes",
+        "image": "https://n2.sdlcdn.com/imgs/k/d/i/ASIAN-Navy-Running-Shoes-SDL000687394-1-50342.jpg",
+        "price": "725",
+        "strikedOfprice": "1249",
+        "rating": "4.5",
+        "id": 3,
+        "size": "7"
+      }
+    ],
+    "casual shoes": [
+      {
+        "name": "Aadi Outdoor Black Casual Shoes",
+        "image": "https://n3.sdlcdn.com/imgs/j/a/o/Aadi-Outdoor-Black-Casual-Shoes-SDL716017712-1-5ca34.jpeg",
+        "price": "499",
+        "strikedOfprice": "999",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "ASIAN Lifestyle Navy Casual Shoes",
+        "image": "https://n1.sdlcdn.com/imgs/j/s/u/230X258_sharpened/ASIAN-Lifestyle-Navy-Casual-Shoes-SDL149794011-1-2474c.jpeg",
+        "price": "549",
+        "strikedOfprice": "669",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "viv Sneakers Blue Casual Shoes",
+        "image": "https://n1.sdlcdn.com/imgs/k/d/v/viv-Sneakers-Blue-Casual-Shoes-SDL817198171-1-b04e1.JPG",
+        "price": "749",
+        "strikedOfprice": "2999",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "Aadi Sneakers Black Casual Shoes",
+        "image": "https://n1.sdlcdn.com/imgs/k/d/b/230X258_sharpened/Aadi-Sneakers-Black-Casual-Shoes-SDL908198954-1-a423e.jpeg",
+        "price": "399",
+        "strikedOfprice": "399",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "ShoeRise Sneakers Yellow Casual Shoes",
+        "image": "https://n2.sdlcdn.com/imgs/j/q/2/ShoeRise-Sneakers-Yellow-Casual-Shoes-SDL733256459-1-6a0fe.jpeg",
+        "price": "539",
+        "strikedOfprice": "999",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "Sir Corbett Sneakers Black Casual Shoes",
+        "image": "https://n4.sdlcdn.com/imgs/j/t/c/Sir-Corbett-Sneakers-Black-Casual-SDL769052113-1-1baad.jpg",
+        "price": "749",
+        "strikedOfprice": "2669",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "Aadi Outdoor Brown Casual Shoes",
+        "image": "https://n1.sdlcdn.com/imgs/j/c/y/Aadi-Outdoor-Brown-Casual-Shoes-SDL226866439-1-7a0a9.jpg",
+        "price": "825",
+        "strikedOfprice": "999",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "layasa White Casual Shoes",
+        "image": "https://n4.sdlcdn.com/imgs/k/e/k/layasa-White-Casual-Shoes-SDL075034521-1-318b0.jpeg",
+        "price": "499",
+        "strikedOfprice": "999",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "Big Fox Lifestyle Black Casual Shoes",
+        "image": "https://n2.sdlcdn.com/imgs/k/b/a/Big-Fox-Lifestyle-Black-Casual-SDL655058043-1-9d0b6.jpg",
+        "price": "799",
+        "strikedOfprice": "1999",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "ShoeRise Yellow Casual Shoes",
+        "image": "https://n3.sdlcdn.com/imgs/j/l/n/ShoeRise-Yellow-Casual-Shoes-SDL428623996-1-c9260.jpeg",
+        "price": "539",
+        "strikedOfprice": "999",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "ASIAN Lifestyle White Casual Shoes",
+        "image": "https://n3.sdlcdn.com/imgs/j/v/8/ASIAN-Lifestyle-White-Casual-Shoes-SDL412790494-1-efb5f.jpeg",
+        "price": "649",
+        "strikedOfprice": "789",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      },
+      {
+        "name": "Aadi Lifestyle Black Casual Shoes",
+        "image": "https://n3.sdlcdn.com/imgs/k/c/y/Aadi-Lifestyle-Black-Casual-Shoes-SDL974926215-1-33f6d.jpg",
+        "price": "499",
+        "strikedOfprice": "1999",
+        "rating": "4",
+        "id": 1,
+        "size": "6"
+      }
+    ]
+  }
 }
