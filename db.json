@@ -1,4 +1,13 @@
 {
+  "usersData": [
+    {
+      "first_name": "Sagar",
+      "last_name": "Khadse",
+      "email": "sagarkhadse400@gmail.com",
+      "password": "Sa@ar#123",
+      "id": 1
+    }
+  ],
   "FootWear": {
     "sports & shoes": [
       {
